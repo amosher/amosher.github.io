@@ -1,13 +1,12 @@
 /**
  * SmoothScroll
- * This helper script created by DWUser.com.  Copyright 2012 DWUser.com.  
- * Dual-licensed under the GPL and MIT licenses.  
+ * This helper script created by DWUser.com.  Copyright 2012 DWUser.com.
+ * Dual-licensed under the GPL and MIT licenses.
  * All individual scripts remain property of their copyrighters.
  * Date: 10-Sep-2012
  * Version: 1.0.1
  */
-if (!window['jQuery']) alert('The jQuery library must be included before the smoothscroll.js file.  The plugin will not work propery.');
-
+i/**f (!window['jQuery']) alert('The jQuery library must be included before the smoothscroll.js file.  The plugin will not work propery.');
 /**
  * jQuery.ScrollTo - Easy element scrolling using jQuery.
  * Copyright (c) 2007-2012 Ariel Flesler - aflesler(at)gmail(dot)com | http://flesler.blogspot.com
